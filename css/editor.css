@@ -205,6 +205,18 @@ html, body {
     background: #777777;
 }
 
+.ant-drawer-header {
+    background: #444444;
+}
+
+.ant-drawer-title {
+    color: white;
+}
+
+.ant-drawer-body {
+    background: #333333;
+}
+
 /* GOLDEN LAYOUT */
 
 .lm_header .lm_tab {
